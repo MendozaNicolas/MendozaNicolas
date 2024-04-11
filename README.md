@@ -6,7 +6,7 @@
 [gmail]: mailto:nicolas.mendoza-@hotmail.com
 [buymeacoffee]: https://www.buymeacoffee.com/nicolasmendoza
 
-### <samp>&gt; Hi there, I'm <a href="https://www.twitter.com/adi1090x" target="_blank">Nicolás Mendoza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/mendoza-nicolas/" target="_blank">Nicolás Mendoza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=X&logoColor=white)][twitter]
