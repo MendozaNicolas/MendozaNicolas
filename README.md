@@ -3,7 +3,7 @@
 [linkedin]: https://www.linkedin.com/in/mendoza-nicolas/
 [twitter]: https://twitter.com/httpfaka
 [github]: https://github.com/MendozaNicolas
-[gmail]: mailto:nicolas.mendoza-@hotmail.com
+[gmail]: mailto:nicolas.mendoza.dev@gmail.com
 [buymeacoffee]: https://www.buymeacoffee.com/nicolasmendoza
 
 ### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/mendoza-nicolas/" target="_blank">Nicolás Mendoza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
@@ -25,6 +25,6 @@ I love spending my time creating something that not only looks good but also per
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m from Argentina!
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary create new stuff
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [nicolas.mendoza-@hotmail.com][gmail]
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [nicolas.mendoza.dev@gmail.com][gmail]
 
 </br>
