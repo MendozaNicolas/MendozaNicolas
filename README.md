@@ -28,7 +28,8 @@ I love spending my time creating something that not only looks good but also per
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary create new stuff
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [nicolas.mendoza.dev@gmail.com][gmail]
 
-###
+<br>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
