@@ -15,7 +15,7 @@
 
 ### Glad to see you here! &nbsp; 
 
-I am a PHP developer, and I love programming in various other languages as a hobby.
+I am a Laravel PHP developer, and I love programming in various other languages as a hobby.
 I love spending my time creating something that not only looks good but also perfectly usable and practical. 
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
