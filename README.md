@@ -5,6 +5,7 @@
 [github]: https://github.com/MendozaNicolas
 [gmail]: mailto:nicolas.mendoza.dev@gmail.com
 [buymeacoffee]: https://www.buymeacoffee.com/nicolasmendoza
+<!-- ![1711944682905](https://github.com/user-attachments/assets/583875e8-9aa7-4eeb-a6f5-54189c47383b) -->
 
 ### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/mendoza-nicolas/" target="_blank">Nicolás Mendoza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
